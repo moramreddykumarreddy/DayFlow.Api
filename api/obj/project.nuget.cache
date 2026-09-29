@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Av8Xm/1NZ3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CTPL-TECHR-012\\OneDrive\\Desktop\\api\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CTPL-TECHR-012\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\CTPL-TECHR-012\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
